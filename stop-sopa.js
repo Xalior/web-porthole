@@ -1,4 +1,9 @@
 /**
+ * Stop-Sopa dynamic CSS overlay. Add one line. Blackout your webpage.
+ * D. Rimron
+ * http://www.rimron.co.uk/
+ *
+ * Based upon very clever work by
  * Zachary Johnson
  * http://www.zachstronaut.com
  * I place the following code in the public domain.
