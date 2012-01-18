@@ -10,8 +10,10 @@ Automatically add it to yourwebsite by putting
 
     <script src="https://raw.github.com/Xalior/stop-sopa/master/stop-sopa.js"></script>
 
-before your 
+before your
+
     </body>
+
 tag
 
 ---
