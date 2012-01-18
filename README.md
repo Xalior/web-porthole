@@ -7,10 +7,12 @@ You can use the provided **`index.html`** as your site's homepage on January 18 
 [**It looks like this.**](http://www.zachstronaut.com/lab/text-shadow-box/stop-sopa.html)
 
 Automatically add it to yourwebsite by putting
-'''
+
     <script src="https://raw.github.com/Xalior/stop-sopa/master/stop-sopa.js"></script>
-'''
-before your </body> tag
+
+before your 
+    </body>
+tag
 
 ---
 
